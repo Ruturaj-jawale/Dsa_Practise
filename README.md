@@ -106,13 +106,3 @@ Each topic includes links to specific LeetCode problems, organized by the type o
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ruturaj-jawale/Dsa_Practise.git
-
-#!/bin/bash
-
-# Count directories in the specified path (e.g., the current directory)
-count=$(find . -type d | wc -l)
-
-# Output the count in Markdown format
-echo "## Total Folders: $count"
-
-## Total Folders: [INSERT_COUNT_HERE]
