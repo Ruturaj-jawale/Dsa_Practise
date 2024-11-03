@@ -106,3 +106,23 @@ Each topic includes links to specific LeetCode problems, organized by the type o
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ruturaj-jawale/Dsa_Practise.git
+
+   #!/bin/bash
+
+# Path to your DSA Practice Repository
+REPO_PATH="/path/to/your/repo"  # Update with your repo path
+
+# Change to the repository directory
+cd "$REPO_PATH" || exit
+
+# Count the number of problem folders
+folder_count=$(find . -mindepth 1 -maxdepth 1 -type d | wc -l)
+
+# Update README.md with the new count
+sed -i.bak "s/## Total Questions Solved: .*/## Total Questions Solved: $folder_count/" README.md
+
+## Total Questions Solved: X  # This will be replaced by the script
+
+chmod +x update_readme.sh  # Replace with your script name
+
+./update_readme.sh
