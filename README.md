@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -81,6 +82,10 @@
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
