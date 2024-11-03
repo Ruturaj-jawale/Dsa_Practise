@@ -67,6 +67,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0197-rising-temperature) |
+| [1153-product-sales-analysis-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Linked List
 |  |
