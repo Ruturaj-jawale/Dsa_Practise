@@ -139,4 +139,16 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Depth-First Search
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
