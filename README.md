@@ -59,6 +59,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0006-zigzag-conversion) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
