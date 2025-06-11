@@ -84,6 +84,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0197-rising-temperature) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1153-product-sales-analysis-i) |
