@@ -73,6 +73,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,4 +191,12 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
