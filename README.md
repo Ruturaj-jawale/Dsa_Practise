@@ -41,6 +41,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
@@ -51,6 +52,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0011-container-with-most-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
 ## Database
 |  |
