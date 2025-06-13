@@ -35,6 +35,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
+| [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -196,6 +197,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
+| [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 ## Sliding Window
 |  |
 | ------- |
