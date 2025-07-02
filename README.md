@@ -61,6 +61,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
@@ -68,6 +69,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0006-zigzag-conversion) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -135,6 +137,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
