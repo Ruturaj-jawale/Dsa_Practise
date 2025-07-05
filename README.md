@@ -37,6 +37,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -160,11 +161,13 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Hash Table
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Stack
 |  |
