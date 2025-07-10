@@ -52,6 +52,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Database
 |  |
@@ -142,6 +144,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
