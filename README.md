@@ -46,6 +46,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -72,6 +73,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0011-container-with-most-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -96,6 +98,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -226,6 +229,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
 | ------- |
