@@ -90,6 +90,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
+| [3396-valid-word](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
