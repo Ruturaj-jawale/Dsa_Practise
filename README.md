@@ -40,6 +40,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -91,6 +92,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -215,6 +217,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Graph
 |  |
@@ -266,4 +269,5 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
