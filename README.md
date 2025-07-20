@@ -37,6 +37,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
@@ -74,6 +75,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +197,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -202,6 +205,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -244,6 +248,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
