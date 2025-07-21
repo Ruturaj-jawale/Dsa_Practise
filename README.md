@@ -96,6 +96,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0014-longest-common-prefix](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2079-delete-duplicate-folders-in-system) |
