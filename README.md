@@ -154,6 +154,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
