@@ -103,6 +103,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1302-delete-characters-to-make-fancy-string) |
