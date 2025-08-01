@@ -40,6 +40,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
@@ -197,6 +198,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
