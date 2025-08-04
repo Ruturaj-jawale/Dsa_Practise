@@ -46,6 +46,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -234,6 +235,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -305,6 +307,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
