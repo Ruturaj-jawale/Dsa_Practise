@@ -163,6 +163,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +181,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +195,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -282,6 +285,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2048-build-array-from-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
