@@ -80,6 +80,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -346,6 +348,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -354,4 +357,5 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
