@@ -184,6 +184,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
+| [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
 | [0897-prime-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
@@ -218,6 +219,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
+| [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -366,4 +368,8 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
