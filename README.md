@@ -186,6 +186,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
 | [0897-prime-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0897-prime-palindrome) |
+| [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -207,6 +208,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -252,6 +254,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
@@ -264,6 +267,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Stack
@@ -318,6 +322,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
