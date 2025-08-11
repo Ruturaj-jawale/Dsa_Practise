@@ -69,6 +69,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -207,6 +208,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
@@ -344,6 +346,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
