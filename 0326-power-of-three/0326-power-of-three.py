@@ -10,5 +10,7 @@ class Solution(object):
         # while n % 3 == 0:
         #     n //= 3
         # return n == 1
-        
-        return n > 0 and 3**19 % n == 0
+        max_int = 2**31 - 1
+        k = int(math.log(max_int, 3))
+        largestP = 3 ** k
+        return n > 0 and largestP % n == 0
