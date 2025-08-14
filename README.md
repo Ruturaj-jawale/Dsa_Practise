@@ -110,6 +110,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -251,6 +253,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 ## Number Theory
 |  |
