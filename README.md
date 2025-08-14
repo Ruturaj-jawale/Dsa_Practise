@@ -130,6 +130,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
