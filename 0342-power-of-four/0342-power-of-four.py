@@ -1,10 +1,10 @@
-class Solution(object):
-    def isPowerOfFour(self, n):
-        """
-        :type n: int
-        :rtype: bool
-        """
-        max_i = 2**31 - 1
-        k = int(math.log(max_i, 4))
-        largestP = 4 ** k
-        return n > 0 and (largestP % n == 0) and math.log(n, 4).is_integer()
+class Solution:
+    def isPowerOfFour(self, n: int) -> bool: 
+        if n == 1  :
+            return True
+        if n <= 0 or n % 4 != 0:
+            
+            return False
+
+        return self.isPowerOfFour(n // 4)
+        
