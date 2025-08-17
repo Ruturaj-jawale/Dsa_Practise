@@ -196,6 +196,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
 | [0897-prime-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -237,6 +238,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -349,6 +351,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -395,4 +398,5 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
