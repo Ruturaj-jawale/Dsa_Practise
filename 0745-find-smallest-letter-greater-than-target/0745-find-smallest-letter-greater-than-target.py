@@ -11,6 +11,8 @@ class Solution:
             else :
                 s = mid + 1
 
+            
+
         return letters[s % len(letters)]
             
 
