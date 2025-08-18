@@ -47,6 +47,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
@@ -197,6 +198,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0326-power-of-three](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
 | [0897-prime-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0897-prime-palindrome) |
@@ -209,6 +211,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
