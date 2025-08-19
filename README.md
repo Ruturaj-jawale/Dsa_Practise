@@ -69,6 +69,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
@@ -206,6 +207,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
