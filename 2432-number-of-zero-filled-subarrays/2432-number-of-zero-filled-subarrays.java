@@ -1,0 +1,18 @@
+class Solution {
+    public long zeroFilledSubarray(int[] nums) {
+        long count = 0;
+        long consectiveZero = 0;
+
+        for (int num : nums){
+            if (num == 0){
+                consectiveZero += 1;
+                count += consectiveZero;
+
+            }else{
+                consectiveZero = 0;
+            }
+        }
+
+        return count;
+    }
+}
