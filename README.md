@@ -57,6 +57,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -248,6 +249,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -262,6 +264,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String Matching
@@ -301,12 +304,14 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
 | ------- |
