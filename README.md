@@ -218,6 +218,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
