@@ -138,6 +138,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -205,6 +206,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0007-reverse-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0326-power-of-three) |
@@ -232,6 +234,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -352,6 +355,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2048-build-array-from-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
