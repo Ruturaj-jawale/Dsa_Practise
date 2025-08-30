@@ -137,6 +137,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -202,6 +203,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
@@ -349,6 +351,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2048-build-array-from-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
