@@ -84,6 +84,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -226,6 +227,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
@@ -254,6 +256,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -393,6 +396,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
@@ -448,4 +452,8 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0826-soup-servings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
