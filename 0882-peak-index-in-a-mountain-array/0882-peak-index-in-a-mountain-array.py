@@ -8,7 +8,7 @@ class Solution:
 
             if (arr[mid] > arr[mid + 1]):
                 end = mid 
-            if ( arr[mid] < arr[mid + 1]):
+            else:
                 start = mid + 1
 
         return start
