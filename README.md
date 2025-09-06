@@ -51,6 +51,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
@@ -109,6 +110,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0035-search-insert-position](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0035-search-insert-position) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
