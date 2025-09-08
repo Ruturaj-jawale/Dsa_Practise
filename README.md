@@ -229,6 +229,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2432-number-of-zero-filled-subarrays) |
