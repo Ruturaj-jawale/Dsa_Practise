@@ -162,6 +162,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
@@ -239,6 +240,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3830-find-closest-person) |
@@ -463,6 +465,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 ## Ordered Set
 |  |
 | ------- |
@@ -482,4 +485,8 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
