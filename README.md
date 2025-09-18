@@ -223,6 +223,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1917-maximum-average-pass-ratio](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -360,6 +361,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -488,6 +490,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -516,4 +519,5 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
