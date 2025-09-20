@@ -109,6 +109,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -366,6 +368,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -497,6 +500,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -511,6 +515,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -525,4 +530,5 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
