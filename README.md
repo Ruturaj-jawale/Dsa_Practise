@@ -219,6 +219,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0326-power-of-three](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -258,6 +259,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3830-find-closest-person) |
 ## Backtracking
@@ -282,6 +284,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Enumeration
 |  |
