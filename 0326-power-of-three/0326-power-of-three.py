@@ -1,16 +1,6 @@
-class Solution(object):
-    def isPowerOfThree(self, n):
-        """
-        :type n: int
-        :rtype: bool
-        """
-
-        # if n <= 0:
-        #     return False
-        # while n % 3 == 0:
-        #     n //= 3
-        # return n == 1
-        max_int = 2**31 - 1
+class Solution:
+    def isPowerOfThree(self, n: int) -> bool:
+        max_int = 2**31-1
         k = int(math.log(max_int, 3))
-        largestP = 3 ** k
-        return n > 0 and largestP % n == 0
+        largest_p = 3 ** k
+        return n > 0  and  (largest_p % n == 0) 
