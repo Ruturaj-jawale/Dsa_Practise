@@ -46,6 +46,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0498-diagonal-traverse](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
@@ -119,6 +120,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -245,6 +247,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0372-super-pow) |
@@ -284,6 +287,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -366,6 +370,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0940-fruit-into-baskets) |
@@ -450,6 +455,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0018-4sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
