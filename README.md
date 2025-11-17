@@ -218,11 +218,13 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0342-power-of-four) |
