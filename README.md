@@ -70,6 +70,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -480,6 +481,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1018-largest-perimeter-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1018-largest-perimeter-triangle) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
