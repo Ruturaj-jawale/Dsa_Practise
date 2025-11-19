@@ -66,6 +66,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1580-shuffle-the-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
