@@ -48,6 +48,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
+| [0485-max-consecutive-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
