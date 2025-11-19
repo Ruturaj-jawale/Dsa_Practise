@@ -248,6 +248,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
@@ -319,6 +320,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
@@ -496,6 +498,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Trie
