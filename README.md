@@ -251,6 +251,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
