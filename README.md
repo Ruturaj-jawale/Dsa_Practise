@@ -39,6 +39,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0035-search-insert-position](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
@@ -292,6 +293,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0039-combination-sum) |
 | [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
