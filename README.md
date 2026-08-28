@@ -164,6 +164,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -232,6 +233,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0231-power-of-two) |
@@ -332,6 +334,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
