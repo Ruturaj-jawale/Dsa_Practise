@@ -49,6 +49,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0136-single-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0485-max-consecutive-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0485-max-consecutive-ones) |
@@ -146,6 +147,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
@@ -247,6 +249,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1917-maximum-average-pass-ratio) |
@@ -489,6 +492,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0018-4sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0354-russian-doll-envelopes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
@@ -593,4 +597,8 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
