@@ -42,6 +42,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0039-combination-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
@@ -174,6 +175,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1006-vowel-spellchecker) |
@@ -399,6 +401,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0594-longest-harmonious-subsequence) |
@@ -490,6 +493,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0015-3sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
