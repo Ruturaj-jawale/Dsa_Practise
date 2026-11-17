@@ -451,6 +451,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -480,12 +481,14 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Sorting
 |  |
@@ -605,4 +608,8 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
