@@ -105,6 +105,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3194-find-words-containing-character](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -366,6 +367,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3618-find-the-original-typed-string-ii) |
@@ -516,6 +518,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3748-sort-matrix-by-diagonals) |
