@@ -101,6 +101,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -220,6 +221,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1917-maximum-average-pass-ratio](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1917-maximum-average-pass-ratio) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
@@ -520,6 +522,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
