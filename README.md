@@ -192,6 +192,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
@@ -479,6 +480,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0498-diagonal-traverse](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2058-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
