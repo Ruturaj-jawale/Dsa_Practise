@@ -244,6 +244,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
