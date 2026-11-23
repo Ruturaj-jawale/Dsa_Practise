@@ -196,6 +196,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2346-largest-3-same-digit-number-in-string) |
