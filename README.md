@@ -69,6 +69,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1185-find-in-mountain-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1352-product-of-the-last-k-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -292,6 +293,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0897-prime-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1018-largest-perimeter-triangle) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1352-product-of-the-last-k-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -549,6 +551,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1352-product-of-the-last-k-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2571-find-the-pivot-integer) |
@@ -619,6 +622,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1352-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
@@ -632,4 +636,8 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
