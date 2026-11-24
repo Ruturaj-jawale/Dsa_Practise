@@ -116,6 +116,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -309,6 +310,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -351,6 +353,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -413,6 +416,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0897-prime-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0897-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -550,6 +554,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [1813-maximum-erasure-value](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
