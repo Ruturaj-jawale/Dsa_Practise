@@ -133,6 +133,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -449,6 +451,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -585,6 +588,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -651,4 +655,12 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
