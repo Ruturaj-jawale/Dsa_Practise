@@ -123,6 +123,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -448,6 +449,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2689-rearranging-fruits](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2689-rearranging-fruits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3678-design-task-manager](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3678-design-task-manager) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3872-find-most-frequent-vowel-and-consonant) |
