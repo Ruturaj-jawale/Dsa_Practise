@@ -159,6 +159,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0372-super-pow) |
@@ -255,6 +256,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -273,6 +275,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -674,4 +677,12 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
