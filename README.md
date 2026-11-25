@@ -253,6 +253,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -260,6 +261,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0025-reverse-nodes-in-k-group) |
@@ -283,6 +285,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
