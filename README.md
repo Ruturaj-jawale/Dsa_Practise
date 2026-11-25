@@ -467,6 +467,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -480,6 +481,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -512,6 +514,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -519,6 +522,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Sorting
