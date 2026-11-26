@@ -322,6 +322,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3360-stone-removal-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -519,6 +520,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3360-stone-removal-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3360-stone-removal-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3790-fruits-into-baskets-ii) |
