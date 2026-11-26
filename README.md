@@ -43,6 +43,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0039-combination-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
@@ -225,6 +226,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1304-longest-happy-string) |
@@ -380,6 +382,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0010-regular-expression-matching](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
