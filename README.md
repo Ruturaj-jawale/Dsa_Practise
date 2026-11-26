@@ -175,6 +175,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0189-rotate-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -195,6 +196,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
