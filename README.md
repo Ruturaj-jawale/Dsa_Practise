@@ -47,6 +47,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0046-permutations](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +197,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0043-multiply-strings](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0812-rotate-string) |
@@ -345,6 +347,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [0039-combination-sum](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -420,6 +423,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1628-count-submatrices-with-all-ones) |
@@ -503,6 +507,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/0099-recover-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
