@@ -137,6 +137,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3797-design-spreadsheet](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3827-implement-router) |
 | [3934-smallest-unique-subarray](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3195-separate-black-and-white-balls](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3195-separate-black-and-white-balls) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Database
 |  |
 | ------- |
@@ -412,6 +414,7 @@ This repository categorizes LeetCode problems by topic to help you systematicall
 | [3618-find-the-original-typed-string-ii](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ruturaj-jawale/Dsa_Practise/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
